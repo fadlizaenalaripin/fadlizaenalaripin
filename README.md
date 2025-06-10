@@ -1,54 +1,55 @@
-👋 Hi there, I'm Fadli Zaenal Aripin!
-👀 About Me
-I'm passionate about Data Science and Data Analysis, turning raw data into meaningful insights and actionable decisions. I love exploring data, building predictive models, and automating workflows to solve real-world problems.
+# 👋 Hey there! I'm **Fadli Zaenal Aripin**  
 
-🌱 Currently Learning
-Advanced Machine Learning techniques
+---
 
-Deep Learning and Neural Networks
+## 👀 About Me  
+I'm a data enthusiast who loves transforming raw numbers into powerful stories.  
+Whether it’s digging deep into datasets, building machine learning models, or crafting smooth automation — I’m all in!  
 
-Data Visualization best practices
+💡 *Data is not just numbers, it’s the key to smarter decisions.*
 
-Big Data tools like Spark and Hadoop
+---
 
-💞️ Let's Collaborate On
-Open-source Data Science projects
+## 🌱 What I'm Learning Now  
+- 🚀 Advanced Machine Learning & AI techniques  
+- 🤖 Deep Learning & Neural Networks  
+- 📊 Beautiful & insightful Data Visualizations  
+- ☁️ Big Data tools like Spark & Hadoop  
 
-Data-driven research and analysis
+---
 
-Building predictive models for social impact
+## 💞️ Let's Collaborate!  
+Do you have a cool open-source data project or a problem that needs data magic?  
+Let's connect and make an impact together!  
 
-Sharing knowledge through tutorials and blogs
+- Building predictive models for social good  
+- Data analysis & research projects  
+- Sharing knowledge through tutorials, blog posts, and talks  
 
-📫 How to Reach Me
-Email: padlijaenal9@gmail.com
+---
 
-LinkedIn: https://linkedin.com/in/fadli-zaenal-aripin-9a8b432a7
+## 📫 How to Reach Me  
+Feel free to say hi or discuss data stuff!  
 
-😄 Pronouns
-He/Him
+✉️ Email: fadlizaenal@example.com  
+🔗 LinkedIn: [linkedin.com/in/fadlizaenal](https://linkedin.com/in/fadli-zaenal-aripin-9a8b432a7)  
+---
 
-⚡ Fun Fact
-I enjoy solving complex puzzles and challenges — whether it’s data or a good brain teaser!
+## 😄 Pronouns  
+He / Him  
 
-🚀 GitHub Stats
-https://github-readme-stats.vercel.app/api?username=fadlizaenalaripin&show_icons=true&theme=radical
+---
 
-📊 GitHub Top Languages
-https://github-readme-stats.vercel.app/api/top-langs/?username=fadlizaenalaripin&layout=compact&theme=radical
+## ⚡ Fun Fact  
+I get hooked on puzzles — whether it's a tricky data problem or a brain teaser! 🧩  
 
-📈 Weekly GitHub Activity
-https://activity-graph.herokuapp.com/graph?username=fadlizaenalaripin&theme=react-dark
+---
 
-🤝 Let's Connect!
-LinkedIn: https://linkedin.com/in/fadli-zaenal-aripin-9a8b432a7
-Email: padlijaenal9@gmail.com
-GitHub: https://github.com/fadlizaenalaripin
+### 🔥 GitHub Stats  
 
-🎯 What I’m Currently Focused On
-pgsql
-Copy
-Edit
-- Enhancing my skills in Deep Learning with TensorFlow and PyTorch
-- Building data pipelines for large-scale datasets
-- Contributing to open-source projects related to AI ethics
+![Fadli's GitHub stats](https://github-readme-stats.vercel.app/api?username=fadlizaenalaripin&show_icons=true&theme=radical)  
+
+---
+
+Thanks for stopping by!  
+🚀 **Explore my repos, star your favorites, and let's build something awesome!** 👇
