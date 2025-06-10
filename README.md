@@ -17,7 +17,7 @@ I'm passionate about **Data Science** and **Data Analysis**, turning raw data in
 
 ## 📫 How to Reach Me  
 - Email: padlijaenal9@gmail.com  
-- LinkedIn: [linkedin.com/in/fadlizaenal](https://linkedin.com/in/fadlizaenalaripin)  
+- LinkedIn: [linkedin.com/in/fadlizaenal](https://linkedin.com/in/fadli-zaenal-aripin-9a8b432a7)  
 
 ## 😄 Pronouns  
 He/Him  
