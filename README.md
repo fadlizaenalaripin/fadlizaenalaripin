@@ -31,7 +31,7 @@ Let's connect and make an impact together!
 ## 📫 How to Reach Me  
 Feel free to say hi or discuss data stuff!  
 
-✉️ Email: fadlizaenal@example.com  
+✉️ Email: padlijaenal9@gmail.com  
 🔗 LinkedIn: [linkedin.com/in/fadlizaenal](https://linkedin.com/in/fadli-zaenal-aripin-9a8b432a7)  
 ---
 
